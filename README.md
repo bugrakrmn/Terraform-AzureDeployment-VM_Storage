@@ -12,7 +12,7 @@ FILES:
 *rg_portal_a8.png
 *.gitignore
 -----------------------------------------------------------------
-EXPLANATION OF FILES:
+#EXPLANATION OF FILES:
 
 PROVIDER--> A provider in Terraform is a plugin that enables interaction with an API. This includes Cloud providers and Software-as-a-service providers. The providers are specified in the Terraform configuration code. They tell Terraform which services it needs to interact with.
 
